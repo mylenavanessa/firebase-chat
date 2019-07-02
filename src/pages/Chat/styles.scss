@@ -1,0 +1,13 @@
+#Chat{
+  display: flex;
+  justify-content: center;
+  .list-messages{
+    margin-top: 20px;
+  } 
+  .input-box{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}
